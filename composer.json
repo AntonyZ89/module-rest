@@ -1,5 +1,5 @@
 {
-    "name": "codeception/module-rest",
+    "name": "antonyz89/module-rest",
     "description": "REST module for Codeception",
     "license": "MIT",
     "type": "library",
