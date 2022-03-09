@@ -14,12 +14,12 @@
     ],
     "homepage": "https://codeception.com/",
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^7.4 | ^8.0",
         "ext-dom": "*",
         "ext-json": "*",
-        "codeception/codeception": "^4.0",
+        "codeception/codeception": "^4.1",
         "justinrainbow/json-schema": "~5.2.9",
-        "softcreatr/jsonpath": "^0.8"
+        "softcreatr/jsonpath": "^0.5 | ^0.7"
     },
     "require-dev": {
         "ext-libxml": "*",
